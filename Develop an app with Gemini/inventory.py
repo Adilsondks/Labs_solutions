@@ -1,14 +1,5 @@
 inventory = [
-    {
-        "productid": "P001",
-        "onhandqty": "10"
-    },
-    {
-        "productid": "P002",
-        "onhandqty": "20"
-    },
-    {
-        "productid": "P003",
-        "onhandqty": "30"
-    }
+    {"productid": "12345", "onhandqty": "100"},
+    {"productid": "67890", "onhandqty": "50"},
+    {"productid": "11122", "onhandqty": "25"}
 ]
